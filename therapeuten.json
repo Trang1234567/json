@@ -2,12 +2,10 @@
   {
     "plz": "12345 Buxtehude",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namezusatzq": [
-      "Felix Felina",
-      "Hufbearbeitung"
-    ],
+    "name": "Felix Felina",
+    "qualifikation":"Hufbearbeitung",
     "kontakt": [
-      "www.wissen.sanoanimal.de",
+      "<a href ="www.wissen.sanoanimal.de">www.wissen.sanoanimal.de</a>,
       "Tel:987654321"
     ],
     "fernberatung": "vor Ort"
@@ -15,10 +13,8 @@
   {
     "plz": "35648 Berlin",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namezusatzq": [
-      "Faulina Korinthenkacker",
-      "Osteopathie, Physiotherapie"
-    ],
+    "namezusatzq": "Faulina Korinthenkacker",
+    "qualifikation":"Osteopathie, Physiotherapie",
     "kontakt": [
       "www.pferde-gesund.de",
       "Tel:987654321",
@@ -29,10 +25,8 @@
   {
     "plz": "12746 Flensburg",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namezusatzq": [
-      "Dramara Möchtegern",
-      "Blutegel, Magnetfeldtherapie, Training"
-    ],
+    "namezusatzq": "Dramara Möchtegern",
+    "qualifikation"::"Blutegel, Magnetfeldtherapie, Training",
     "kontakt": [
       "www.futterberatung.de",
       "Tel:987654321",
@@ -43,10 +37,9 @@
   {
     "plz": "12746 Oberrohn",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namezusatzq": [
-      "Faulina Schimmelpfennig",
-      "Hufbearbeitung"
-    ],
+    "namezusatzq": "Faulina Schimmelpfennig",
+    "qualifikation":"Hufbearbeitung"
+    ,
     "kontakt": [
       "www.schimmelpfennig.de",
       "Tel:987654321",
@@ -57,10 +50,8 @@
   {
     "plz": "13055 Berlin",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namezusatzq": [
-      "Christina Fritz",
-      "Stoffwechseltherapie, Osteopathie, Futterberaterin"
-    ],
+    "namezusatzq": "Christina Fritz",
+    "qualifikation": "Stoffwechseltherapie, Osteopathie, Futterberaterin",
     "kontakt": [
       "www.wissen.sanoanimal.de",
       "Tel:987654321",
@@ -71,10 +62,8 @@
   {
     "plz": "28374 Oberhof",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namezusatzq": [
-      "Flenjamin Meckermann",
-      "Tierarzt, Osteopathie, Chiropraktik, Physiotherapie, Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"
-    ],
+    "namezusatzq": "Flenjamin Meckermann",
+    "qualifikation":"Tierarzt, Osteopathie, Chiropraktik, Physiotherapie, Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik",
     "kontakt": [
       "www.gesund-pferde.de",
       "Tel:987654321",
@@ -85,10 +74,8 @@
   {
     "plz": "28378 Weilheim",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namezusatzq": [
-      "Memmely Meckerfrau",
-      "Beritt"
-    ],
+    "namezusatzq": "Memmely Meckerfrau",
+    "qualifikation":"Beritt",
     "kontakt": [
       "Tel:987654321",
       "info@memmely.de"
@@ -98,10 +85,8 @@
   {
     "plz": "28379 Unterkatz",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namezusatzq": [
-      "Stressika Pingel",
-      "Reha-Zentrum, Tierkommunikation"
-    ],
+    "namezusatzq": "Stressika Pingel",
+    "qualifikation":"Reha-Zentrum, Tierkommunikation",
     "kontakt": [
       "www.reha-zentrum.de",
       "Tel:987654321",
@@ -112,10 +97,8 @@
   {
     "plz": "95627 Bayern",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namezusatzq": [
-      "Steffi Frühwirt",
-      "Osteopathie, Futterberater"
-    ],
+    "namezusatzq": "Steffi Frühwirt",
+    "qualifikation":"Osteopathie, Futterberater",
     "kontakt": [
       "www.wissen.sanoanimal.de",
       "Tel:987654321"
@@ -125,10 +108,8 @@
   {
     "plz": "95627 Bayern",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namezusatzq": [
-      "Steffi Gott",
-      "Osteopathie, Futterberater"
-    ],
+    "namezusatzq": "Steffi Gott",
+    "qualifikation":"Osteopathie, Futterberater",
     "kontakt": [
       "www.wissen.sanoanimal.de",
       "Tel:987654321"
@@ -138,10 +119,8 @@
   {
     "plz": "68975 Hessen",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namezusatzq": [
-      "Lolo Lulu",
-      "Osteopathie, Tierarzt"
-    ],
+    "namezusatzq": "Lolo Lulu",
+    "qualifikation":"Osteopathie, Tierarzt",
     "kontakt": [
       "www.wissen.sanoanimal.de",
       "Tel:987654321"
