@@ -10,7 +10,7 @@
       "www.wissen.sanoanimal.de",
       "Tel:987654321"
     ],
-    "fernberatung": "Fernberatung möglich "
+    "fernberatung": "vor Ort"
   },
   {
     "plz": "35648 Berlin",
@@ -24,7 +24,7 @@
       "Tel:987654321",
       "info@wlan.de"
     ],
-    "fernberatung": "Fernberatung möglich"
+    "fernberatung": "telefonisch"
   },
   {
     "plz": "12746 Flensburg",
@@ -38,7 +38,7 @@
       "Tel:987654321",
       "info@futterberatung.de"
     ],
-    "fernberatung": "Fernberatung möglich"
+    "fernberatung": "telefonisch"
   },
   {
     "plz": "12746 Oberrohn",
@@ -52,7 +52,7 @@
       "Tel:987654321",
       "info@schimmelpfennig.de"
     ],
-    "fernberatung": "keine Fernberatung"
+    "fernberatung": "vor Ort"
   },
   {
     "plz": "13055 Berlin",
@@ -66,7 +66,7 @@
       "Tel:987654321",
       "office@sanoanimal.de"
     ],
-    "fernberatung": "Fernberatung möglich"
+    "fernberatung": "telefonisch"
   },
   {
     "plz": "28374 Oberhof",
@@ -80,7 +80,7 @@
       "Tel:987654321",
       "info@meckermann.de"
     ],
-    "fernberatung": "keine Fernberatung"
+    "fernberatung": "telefonisch"
   },
   {
     "plz": "28378 Weilheim",
@@ -93,7 +93,7 @@
       "Tel:987654321",
       "info@memmely.de"
     ],
-    "fernberatung": "Fernberatung möglich"
+    "fernberatung": "telefonisch"
   },
   {
     "plz": "28379 Unterkatz",
@@ -107,7 +107,7 @@
       "Tel:987654321",
       "info@reha-zentrum.de"
     ],
-    "fernberatung": "keine Fernberatung "
+    "fernberatung": "vor Ort"
   },
   {
     "plz": "95627 Bayern",
@@ -120,20 +120,20 @@
       "www.wissen.sanoanimal.de",
       "Tel:987654321"
     ],
-    "fernberatung": "Fernberatung möglich"
+    "fernberatung": "telefonisch"
   },
   {
     "plz": "95627 Bayern",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namezusatzq": [
-      "Steffi Frühwirt",
+      "Steffi Gott",
       "Osteopathie, Futterberater"
     ],
     "kontakt": [
       "www.wissen.sanoanimal.de",
       "Tel:987654321"
     ],
-    "fernberatung": "Fernberatung möglich"
+    "fernberatung": "vor Ort"
   },
   {
     "plz": "68975 Hessen",
@@ -146,6 +146,6 @@
       "www.wissen.sanoanimal.de",
       "Tel:987654321"
     ],
-    "fernberatung": "Fernberatung möglich"
+    "fernberatung": "telefonisch"
   }
 ]
