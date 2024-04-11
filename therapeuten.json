@@ -8,6 +8,7 @@
       "Tel:987654321",
       ""
     ],
+    "siegel": "https://i.imgur.com/HnnvloJ.jpg",
     "fernberatung": "vor Ort"
   },
   {
@@ -19,6 +20,7 @@
       "Tel:987654321",
       "info@wlan.de"
     ],
+    "siegel": "",
     "fernberatung": "telefonisch"
   },
   {
@@ -30,6 +32,7 @@
       "Tel:987654321",
       "info@futterberatung.de"
     ],
+    "siegel": "https://i.imgur.com/HnnvloJ.jpg",
     "fernberatung": "telefonisch"
   },
   {
@@ -53,6 +56,7 @@
       "Tel:987654321",
       "office@sanoanimal.de"
     ],
+    "siegel": "https://i.imgur.com/HnnvloJ.jpg",
     "fernberatung": "telefonisch"
   },
   {
@@ -64,6 +68,7 @@
       "Tel:987654321",
       "info@meckermann.de"
     ],
+    "siegel": "https://i.imgur.com/HnnvloJ.jpg",
     "fernberatung": "telefonisch"
   },
   {
@@ -75,6 +80,7 @@
       "Tel:987654321",
       "info@memmely.de"
     ],
+    "siegel": "",
     "fernberatung": "telefonisch"
   },
   {
@@ -86,6 +92,7 @@
       "Tel:987654321",
       "info@reha-zentrum.de"
     ],
+    "siegel": "",
     "fernberatung": "vor Ort"
   },
   {
@@ -97,6 +104,7 @@
       "Tel:987654321",
       ""
     ],
+    "siegel": "https://i.imgur.com/HnnvloJ.jpg",
     "fernberatung": "telefonisch"
   },
   {
@@ -108,6 +116,7 @@
       "Tel:987654321",
       ""
     ],
+    "siegel": "https://i.imgur.com/HnnvloJ.jpg",
     "fernberatung": "vor Ort"
   },
   {
@@ -119,6 +128,7 @@
       "Tel:987654321",
       ""
     ],
+    "siegel": "https://i.imgur.com/HnnvloJ.jpg",
     "fernberatung": "telefonisch"
   }
 ]
