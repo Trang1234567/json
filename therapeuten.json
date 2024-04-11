@@ -5,7 +5,8 @@
     "namequalifikation": ["Felix Felina","Hufbearbeitung"],
     "kontakt": [
       "www.okapi-online.de",
-      "Tel:987654321"
+      "Tel:987654321",
+      ""
     ],
     "fernberatung": "vor Ort"
   },
@@ -70,6 +71,7 @@
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Memmely Meckerfrau","Beritt"],
     "kontakt": [
+      "",
       "Tel:987654321",
       "info@memmely.de"
     ],
@@ -91,8 +93,9 @@
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Steffi Frühwirt","Osteopathie, Futterberater"],
     "kontakt": [
-      "www.wissen.sanoanimal.de",
-      "Tel:987654321"
+      "www.knäx.de",
+      "Tel:987654321",
+      ""
     ],
     "fernberatung": "telefonisch"
   },
@@ -101,8 +104,9 @@
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Steffi Gott", "Osteopathie, Futterberater"],
     "kontakt": [
-      "www.wissen.sanoanimal.de",
-      "Tel:987654321"
+      "wissen.sanoanimal.de",
+      "Tel:987654321",
+      ""
     ],
     "fernberatung": "vor Ort"
   },
@@ -111,8 +115,9 @@
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Lolo Lulu","Osteopathie, Tierarzt"],
     "kontakt": [
-      "www.wissen.sanoanimal.de",
-      "Tel:987654321"
+      "wissen.sanoanimal.de",
+      "Tel:987654321",
+      ""
     ],
     "fernberatung": "telefonisch"
   }
