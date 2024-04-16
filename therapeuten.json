@@ -131,5 +131,41 @@
     ],
     "siegel": "https://i.imgur.com/zBetC65.jpg",
     "fernberatung": "telefonisch"
+  },
+  {
+    "plz": "53158 Entenhausen",
+    "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
+    "namequalifikation": ["Mimi Momo","Osteopathie, Tierarzt"],
+    "kontakt": [
+      "google.com",
+      "Tel:987654321",
+      ""
+    ],
+    "siegel": "https://i.imgur.com/zBetC65.jpg",
+    "fernberatung": "telefonisch"
+  },
+  {
+    "plz": "34567 Wolfsburg",
+    "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
+    "namequalifikation": ["Müll Müller","Osteopathie, Tierarzt, Chiropraktik, Physiotherapie, Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "kontakt": [
+      "wissen.sanoanimal.de",
+      "Tel:987654321",
+      ""
+    ],
+    "siegel": "",
+    "fernberatung": "telefonisch"
+  },
+  {
+    "plz": "86751 Köln",
+    "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
+    "namequalifikation": ["Tim Klatt","Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "kontakt": [
+      "wissen.sanoanimal.de",
+      "Tel:987654321",
+      ""
+    ],
+    "siegel": "",
+    "fernberatung": "telefonisch"
   }
 ]
