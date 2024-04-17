@@ -134,6 +134,22 @@
     "adresse": "",
     "koordinaten": []
   },
+  ,
+  {
+    "plz": "94985 Bayern",
+    "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
+    "namequalifikation": ["Steffi Frühaufsteher","Osteopathie, Futterberater"],
+    "sanoabschlussjahr": "",
+    "kontakt": [
+      "www.knäx.de",
+      "Tel:987654321",
+      ""
+    ],
+    "siegel": "",
+    "fernberatung": "Fernberatung",
+    "adresse": "",
+    "koordinaten": []
+  },
   {
     "plz": "85049 Ingolstadt",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
@@ -205,6 +221,21 @@
       ""
     ],
     "siegel": "",
+    "fernberatung": "Fernberatung",
+    "adresse": "",
+    "koordinaten": []
+  },
+    {
+    "plz": "85687 Köln",
+    "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
+    "namequalifikation": ["Tim Klatt","Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "sanoabschlussjahr": "",
+    "kontakt": [
+      "wissen.sanoanimal.de",
+      "Tel:987654321",
+      ""
+    ],
+    "siegel": "https://i.imgur.com/zBetC65.jpg",
     "fernberatung": "Fernberatung",
     "adresse": "",
     "koordinaten": []
