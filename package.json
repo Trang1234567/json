@@ -18,6 +18,7 @@
     "plz": "35648 Berlin",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Faulina Korinthenkacker", "Osteopathie, Physiotherapie"],
+    "sanoabschlussjahr": "",
     "kontakt": [
       "pferde-gesund.de",
       "Tel:987654321",
@@ -46,8 +47,8 @@
   {
     "plz": "12687 Berlin",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Faulina Schimmelpfennig","Hufbearbeitung"]
-  ,
+    "namequalifikation": ["Faulina Schimmelpfennig","Hufbearbeitung"],
+    "sanoabschlussjahr": "",
     "kontakt": [
       "schimmelpfennig.de",
       "Tel:987654321",
@@ -92,6 +93,7 @@
     "plz": "28378 Weilheim",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Memmely Meckerfrau","Beritt"],
+    "sanoabschlussjahr": "",
     "kontakt": [
       "",
       "Tel:987654321",
@@ -106,6 +108,7 @@
     "plz": "28217 Bremen",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Stressika Pingel","Reha-Zentrum, Tierkommunikation"],
+    "sanoabschlussjahr": "",
     "kontakt": [
       "www.reha-zentrum.de",
       "Tel:987654321",
@@ -180,6 +183,7 @@
     "plz": "34567 Wolfsburg",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Müll Müller","Osteopathie, Tierarzt, Chiropraktik, Physiotherapie, Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "sanoabschlussjahr": "",
     "kontakt": [
       "wissen.sanoanimal.de",
       "Tel:987654321",
@@ -194,6 +198,7 @@
     "plz": "86751 Köln",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Tim Klatt","Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "sanoabschlussjahr": "",
     "kontakt": [
       "wissen.sanoanimal.de",
       "Tel:987654321",
@@ -208,6 +213,7 @@
     "plz": "04319 Leipzig",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Saskia Saskia","Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "sanoabschlussjahr": "",
     "kontakt": [
       "wissen.sanoanimal.de",
       "Tel:987654321",
