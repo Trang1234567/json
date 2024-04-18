@@ -84,7 +84,7 @@
       "Tel:987654321",
       "info@meckermann.de"
     ],
-    "siegel": "https://i.imgur.com/zBetC65.jpg",
+    "siegel": "",
     "fernberatung": "Fernberatung",
     "adresse": "",
     "koordinaten": []
@@ -159,7 +159,7 @@
       "Tel:987654321",
       ""
     ],
-    "siegel": "https://i.imgur.com/zBetC65.jpg",
+    "siegel": "",
     "fernberatung": "vor Ort",
     "adresse": "Tränktorstraße 6-8, 85049 Ingolstadt",
     "koordinaten": [48.76172,11.42736]
@@ -168,7 +168,7 @@
     "plz": "68975 Hessen",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Lolo Lulu","Osteopathie, Tierarzt, Sanoanimal Fütterungsberater "],
-    "sanoabschlussjahr": "(2022)",
+    "sanoabschlussjahr": "(2024)",
     "kontakt": [
       "wissen.sanoanimal.de",
       "Tel:987654321",
@@ -182,14 +182,14 @@
   {
     "plz": "53158 Entenhausen",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Mimi Momo","Osteopathie, Tierarzt,Sanoanimal Fütterungsberater "],
+    "namequalifikation": ["Mimi Momo","Osteopathie, Tierarzt, Sanoanimal Fütterungsberater "],
     "sanoabschlussjahr": "(2001)",
     "kontakt": [
       "google.com",
       "Tel:987654321",
       ""
     ],
-    "siegel": "https://i.imgur.com/zBetC65.jpg",
+    "siegel": "",
     "fernberatung": "Fernberatung",
     "adresse": "",
     "koordinaten": []
@@ -219,7 +219,7 @@
       "Tel:987654321",
       ""
     ],
-    "siegel": "",
+    "siegel": "https://i.imgur.com/zBetC65.jpg",
     "fernberatung": "Fernberatung",
     "adresse": "",
     "koordinaten": []
@@ -228,13 +228,28 @@
     "plz": "85687 Köln",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
     "namequalifikation": ["Tim Klatt","Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik, Sanoanimal Fütterungsberater "],
-    "sanoabschlussjahr": "(2024)",
+    "sanoabschlussjahr": "(2023)",
     "kontakt": [
       "wissen.sanoanimal.de",
       "Tel:987654321",
       ""
     ],
-    "siegel": "https://i.imgur.com/zBetC65.jpg",
+    "siegel": "",
+    "fernberatung": "Fernberatung",
+    "adresse": "",
+    "koordinaten": []
+  },
+   {
+    "plz": "81235 Köln",
+    "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
+    "namequalifikation": ["Flim Flatt","Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "sanoabschlussjahr": "",
+    "kontakt": [
+      "wissen.sanoanimal.de",
+      "Tel:987654321",
+      ""
+    ],
+    "siegel": "",
     "fernberatung": "Fernberatung",
     "adresse": "",
     "koordinaten": []
