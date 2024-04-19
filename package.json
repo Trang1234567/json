@@ -2,7 +2,8 @@
   {
     "plz": "12345 Buxtehude",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Felix Felina","Sanoanimal Fütterungsberater #sanoabschlussjahr, Hufbearbeitung "],
+    "namequalifikation": ["Felix Felina","Sanoanimal Ernährungsberater #sanoabschlussjahr"], 
+    "zusatzqualifikation": "Hufbearbeitung, Beritt",
     "sanoabschlussjahr": "(1987)",
     "kontakt": [
       "okapi-online.de",
@@ -17,7 +18,8 @@
   {
     "plz": "35648 Berlin",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Faulina Korinthenkacker", "Osteopathie, Physiotherapie"],
+    "namequalifikation": ["Faulina Korinthenkacker", ""],
+    "zusatzqualifikation": "Osteopathie, Physiotherapie",
     "sanoabschlussjahr": "",
     "kontakt": [
       "pferde-gesund.de",
@@ -32,7 +34,8 @@
   {
     "plz": "12746 Flensburg",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Dramara Möchtegern","Sanoanimal Fütterungsberater #sanoabschlussjahr, Blutegel, Magnetfeldtherapie, Training"],
+    "namequalifikation": ["Dramara Möchtegern","Sanoanimal Fütterungsexperte #sanoabschlussjahr"],
+    "zusatzqualifikation": "Blutegel, Magnetfeldtherapie, Training",
     "sanoabschlussjahr": "(1977)",
     "kontakt": [
       "futterberatung.de",
@@ -47,7 +50,8 @@
   {
     "plz": "12687 Berlin",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Faulina Schimmelpfennig","Hufbearbeitung"],
+    "namequalifikation": ["Faulina Schimmelpfennig", ""],
+    "zusatzqualifikation":"Hufbearbeitung",
     "sanoabschlussjahr": "",
     "kontakt": [
       "schimmelpfennig.de",
@@ -62,7 +66,8 @@
   {
     "plz": "13055 Berlin",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Christina Fritz","Sanoanimal Fütterungsberater #sanoabschlussjahr, Stoffwechseltherapie, Osteopathie"],
+    "namequalifikation": ["Christina Fritz","Sanoanimal Fütterungsexperte #sanoabschlussjahr"],
+    "zusatzqualifikation": "Stoffwechseltherapie, Osteopathie",
     "sanoabschlussjahr": "(1987)",
     "kontakt": [
       "wissen.sanoanimal.de",
@@ -77,7 +82,8 @@
   {
     "plz": "28374 Oberhof",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Flenjamin Meckermann","Sanoanimal Fütterungsberater #sanoabschlussjahr, Tierarzt, Osteopathie, Chiropraktik, Physiotherapie, Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "namequalifikation": ["Flenjamin Meckermann","Sanoanimal Ernährungsberater #sanoabschlussjahr"],
+    "zusatzqualifikation": "Tierarzt, Osteopathie, Chiropraktik, Physiotherapie, Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik",
     "sanoabschlussjahr": "(1999)",
     "kontakt": [
       "www.gesund-pferde.de",
@@ -92,7 +98,8 @@
   {
     "plz": "28378 Weilheim",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Memmely Meckerfrau","Beritt"],
+    "namequalifikation": ["Memmely Meckerfrau",""],
+    "zusatzqualifikation": "Beritt",
     "sanoabschlussjahr": "",
     "kontakt": [
       "",
@@ -107,7 +114,8 @@
   {
     "plz": "28217 Bremen",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Stressika Pingel","Reha-Zentrum, Tierkommunikation"],
+    "namequalifikation": ["Stressika Pingel",""],
+    "zusatzqualifikation":"Reha-Zentrum, Tierkommunikation",
     "sanoabschlussjahr": "",
     "kontakt": [
       "www.reha-zentrum.de",
@@ -122,7 +130,8 @@
   {
     "plz": "95627 Bayern",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Steffi Frühwirt","Sanoanimal Fütterungsberater #sanoabschlussjahr, Osteopathie"],
+    "namequalifikation": ["Steffi Frühwirt","Sanoanimal Ernährungsberater #sanoabschlussjahr"],
+    "zusatzqualifikation": "Osteopathie",
     "sanoabschlussjahr": "(2024)",
     "kontakt": [
       "www.knäx.de",
@@ -137,7 +146,8 @@
   {
     "plz": "94985 Bayern",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Steffi Frühaufsteher","Osteopathie"],
+    "namequalifikation": ["Steffi Frühaufsteher",""],
+    "zusatzqualifikation": "Osteopathie",
     "sanoabschlussjahr": "",
     "kontakt": [
       "www.knäx.de",
@@ -152,7 +162,8 @@
   {
     "plz": "99854 Bayern",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Steffi Spätwirt","Sanoanimal Fütterungsberater #sanoabschlussjahr, Osteopathie"],
+    "namequalifikation": ["Steffi Spätwirt","Sanoanimal Fütterungsexperte #sanoabschlussjahr"],
+    "zusatzqualifikation": "Osteopathie",
     "sanoabschlussjahr": "2021",
     "kontakt": [
       "www.knäx.de",
@@ -167,7 +178,8 @@
   {
     "plz": "85049 Ingolstadt",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Steffi Gott", "Sanoanimal Fütterungsberater #sanoabschlussjahr, Osteopathie"],
+    "namequalifikation": ["Steffi Gott", "Sanoanimal Ernährungsberater #sanoabschlussjahr"],
+    "zusatzqualifikation": "Osteopathie",
     "sanoabschlussjahr": "(2020)",
     "kontakt": [
       "wissen.sanoanimal.de",
@@ -182,7 +194,8 @@
   {
     "plz": "68975 Hessen",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Lolo Lulu","Sanoanimal Fütterungsberater #sanoabschlussjahr, Osteopathie, Tierarzt"],
+    "namequalifikation": ["Lolo Lulu","Sanoanimal Fütterungsexperte #sanoabschlussjahr"],
+    "zusatzqualifikation": "Osteopathie, Tierarzt",
     "sanoabschlussjahr": "(2024)",
     "kontakt": [
       "wissen.sanoanimal.de",
@@ -197,7 +210,8 @@
   {
     "plz": "53158 Entenhausen",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Mimi Momo","Sanoanimal Fütterungsberater #sanoabschlussjahr, Osteopathie, Tierarzt"],
+    "namequalifikation": ["Mimi Momo","Sanoanimal Ernährungsberater #sanoabschlussjahr"],
+    "zusatzqualifikation": "Osteopathie, Tierarzt",
     "sanoabschlussjahr": "(2001)",
     "kontakt": [
       "google.com",
@@ -212,7 +226,8 @@
   {
     "plz": "34567 Wolfsburg",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Müll Müller","Osteopathie, Tierarzt, Chiropraktik, Physiotherapie, Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "namequalifikation": ["Müll Müller",""],
+    "zusatzqualifikation": "Osteopathie, Tierarzt, Chiropraktik, Physiotherapie, Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik",
     "sanoabschlussjahr": "",
     "kontakt": [
       "wissen.sanoanimal.de",
@@ -227,7 +242,8 @@
   {
     "plz": "86751 Köln",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Tim Klatt","Sanoanimal Fütterungsberater #sanoabschlussjahr, Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "namequalifikation": ["Tim Klatt","Sanoanimal Fütterungsexperte #sanoabschlussjahr"],
+    "zusatzqualifikation": "Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik",
     "sanoabschlussjahr": "(2024)",
     "kontakt": [
       "wissen.sanoanimal.de",
@@ -242,7 +258,8 @@
     {
     "plz": "85687 Köln",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Tim Klatt","Sanoanimal Fütterungsberater #sanoabschlussjahr, Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "namequalifikation": ["Tim Klatt","Sanoanimal Ernährungsberater #sanoabschlussjahr"],
+    "zusatzqualifikation":"Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik",
     "sanoabschlussjahr": "(2023)",
     "kontakt": [
       "wissen.sanoanimal.de",
@@ -257,7 +274,8 @@
    {
     "plz": "81235 Köln",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Flim Flatt","Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "namequalifikation": ["Flim Flatt", ""],
+     "zusatzqualifikation": "Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik",
     "sanoabschlussjahr": "",
     "kontakt": [
       "wissen.sanoanimal.de",
@@ -272,7 +290,8 @@
   {
     "plz": "04319 Leipzig",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Saskia Saskia","Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik"],
+    "namequalifikation": ["Saskia Saskia",""],
+    "zusatzqualifikation":"Craniosacrale Therapie, Dorn Osteotherapie, Tierheilkunde, Tierheilpraktik",
     "sanoabschlussjahr": "",
     "kontakt": [
       "wissen.sanoanimal.de",
